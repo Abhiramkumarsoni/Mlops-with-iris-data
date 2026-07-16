@@ -35,3 +35,6 @@ else:
         
         # Display the result
         st.success(f"Predicted Species: **{predicted_class}** (Class {prediction})")
+
+
+# python api/app.py
